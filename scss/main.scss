@@ -8,13 +8,23 @@
         //Sobreescribimos la variable de los headings
         $headings-font-family:'Montserrat', sans-serif;
         $headings-font-weight: 600;
-        
-        footer h5{
-            text-transform: uppercase;
-            color: #495057;
+
+        //sobreescribimos elementos de form
+        form{
+            h1{
+                font-weight: 800;
+            }
         }
+
 
 
 // (Opción A): Librería completa de bootstrap 4
 
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+
+/* _formulario_proiectus */
+
+@import "formulario_proiectus";
+
+    

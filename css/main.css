@@ -1,9 +1,8 @@
 @charset "UTF-8";
 /* webfonts para los headings */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap");
-footer h5 {
-  text-transform: uppercase;
-  color: #495057;
+form h1 {
+  font-weight: 800;
 }
 
 /*!
@@ -9882,6 +9881,29 @@ h3 {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+/* _formulario_proiectus */
+/* _formulario_proiectus */
+body {
+  background: #ffc107;
+}
+
+form .contact-image {
+  text-align: center;
+}
+form .contact-image img {
+  border-radius: 8%;
+  width: 8%;
+  margin-top: -13%;
+  object-fit: scale-down;
+  background: #fff;
+}
+form .contact-form {
+  background: #fff;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 /*# sourceMappingURL=main.css.map */
