@@ -114,12 +114,38 @@
                             <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 <div class="custom-control custom-radio">
                                     <input type="radio" id="customRadio1" name="customRadio" class="custom-control-input">
-                                    <label class="custom-control-label" for="customRadio1">Toggle this custom radio</label>
+                                    <label class="custom-control-label" for="customRadio1"> un radio button </label>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!-- fin elemento -->
+                    <!-- fin radio button -->
+
+                    <!-- radio button 2 -->
+                    <div class="form-group">
+                        <div class="row justify-content-center">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                                <div class="custom-control custom-radio">
+                                    <input type="radio" id="customRadio2" name="customRadio" class="custom-control-input">
+                                    <label class="custom-control-label" for="customRadio2">otro radio button</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- fin radio button 2-->
+
+                    <!-- radio button 3 -->
+                    <div class="form-group">
+                        <div class="row justify-content-center">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                                <div class="custom-control custom-radio">
+                                    <input type="radio" id="customRadio3" name="customRadio" class="custom-control-input">
+                                    <label class="custom-control-label" for="customRadio3"> Y otro radio button!</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- fin radio button 3-->
 
                     <!-- elemento -->
                     <div class="form-group">
