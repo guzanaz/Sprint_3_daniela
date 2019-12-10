@@ -32,12 +32,13 @@
                         <div class="row no-gutters justify-content-center">
                             <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 <h1>Proiectus forms.</h1>
+                                <p>Estás en la plantilla proiectus forms, toma lo que sea útil para tu formulario, aplícalo bien, haz tu trabajo.</p>
                             </div>
                         </div>
                     </div>
 
                     <!-- Input básico -->
-                    <div class="form-group">
+                    <div class="form-group mt-4">
                         <div class="row justify-content-center">
                             <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 <label for="exampleFormControlInput1">Tipo de información</label>
@@ -107,7 +108,25 @@
                     <!-- fin checkbox-->
                     
 
+                    <!-- elemento -->
+                    <div class="form-group">
+                        <div class="row justify-content-center">
+                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- fin elemento -->
 
+                    <!-- elemento -->
+                    <div class="form-group">
+                        <div class="row justify-content-center">
+                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!-- fin elemento -->
 
                     <!-- elemento -->
                     <div class="form-group">

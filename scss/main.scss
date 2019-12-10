@@ -1,4 +1,4 @@
-// .scss personalizado para proiectus.cat
+// .scss personalizado para proiectus.cat - aquí va todo lo que sobreescribiremos
 
     /* webfonts para los headings */
 
@@ -22,9 +22,9 @@
 
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-
-/* _formulario_proiectus */
-
-@import "formulario_proiectus";
+// aquí van estilos no preestablecidos en bootstrap
+    
+    /* _formulario_proiectus */
+    @import "formulario_proiectus";
 
     
