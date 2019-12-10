@@ -19,7 +19,7 @@
         <div class="row justify-content-center">
 
             <!-- grid container formulario-->
-            <div class="col-sm-11 col-md-10 col-lg-10 col-xl-10">
+            <div class="col-11 col-sm-11 col-md-10 col-lg-10 col-xl-10">
 
                 <!-- container formulario -->
                 <div class="container contact-form">
@@ -30,7 +30,7 @@
                     
                     <div class="container">
                         <div class="row no-gutters justify-content-center">
-                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 <h1>Proiectus forms.</h1>
                                 <p>Estás en la plantilla proiectus forms, toma lo que sea útil para tu formulario, aplícalo bien, haz tu trabajo.</p>
                             </div>
@@ -40,7 +40,7 @@
                     <!-- Input básico -->
                     <div class="form-group mt-4">
                         <div class="row justify-content-center">
-                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 <label for="exampleFormControlInput1">Tipo de información</label>
                                 <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="Ejemplo del tipo de información">
                             </div>
@@ -52,7 +52,7 @@
                     <!-- select básico -->
                     <div class="form-group">
                         <div class="row justify-content-center">
-                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 <label for="exampleFormControlSelect1">Ejemplo de select</label>
                                 <select class="form-control" id="exampleFormControlSelect1">
                                     <option>1</option>
@@ -69,7 +69,7 @@
                     <!-- select múltiple -->
                     <div class="form-group">
                         <div class="row justify-content-center">
-                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 <label for="exampleFormControlSelect2">Ejemplo de select múltiple</label>
                                 <select multiple class="form-control" id="exampleFormControlSelect2">
                                     <option>1</option>
@@ -86,7 +86,7 @@
                     <!-- text área -->
                     <div class="form-group">
                         <div class="row justify-content-center">
-                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 <label for="exampleFormControlTextarea1">Ejemplo de textarea</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Ejemplo del tipo de información"></textarea>
                             </div>
@@ -97,7 +97,7 @@
                     <!-- inicio checkbox -->
                     <div class="form-group">
                         <div class="row justify-content-center">
-                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 <div class="form-check">
                                     <input class="form-check-input" type="checkbox" id="gridCheck">
                                     <label class="form-check-label" for="gridCheck">Ejemplo de checkbox</label>
@@ -108,10 +108,23 @@
                     <!-- fin checkbox-->
                     
 
+                    <!-- radio button -->
+                    <div class="form-group">
+                        <div class="row justify-content-center">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                                <div class="custom-control custom-radio">
+                                    <input type="radio" id="customRadio1" name="customRadio" class="custom-control-input">
+                                    <label class="custom-control-label" for="customRadio1">Toggle this custom radio</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- fin elemento -->
+
                     <!-- elemento -->
                     <div class="form-group">
                         <div class="row justify-content-center">
-                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                            <div class="col-10  col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 
                             </div>
                         </div>
@@ -121,17 +134,7 @@
                     <!-- elemento -->
                     <div class="form-group">
                         <div class="row justify-content-center">
-                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
-                                
-                            </div>
-                        </div>
-                    </div>
-                    <!-- fin elemento -->
-
-                    <!-- elemento -->
-                    <div class="form-group">
-                        <div class="row justify-content-center">
-                            <div class="col-sm-10 col-md-8 col-lg-8 col-xl-6">
+                            <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-6">
                                 
                             </div>
                         </div>
