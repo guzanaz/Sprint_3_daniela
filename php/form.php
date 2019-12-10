@@ -177,37 +177,7 @@
 
         </div>
         <!-- fin formulario -->
-</form>
+    </form>
 
-
-
-
-
-
-
- 
-
-
-
-
-
-    <!-- inicio footer -->
-    <footer>
-        <!-- inicio container -->
-        <div class="container">
-            <!-- inicio row -->
-            <div class="row">
-                <div class="col-sm-12 col-md-3 col-lg-3 col-xl-3">
-                    <h5></h5>
-                </div>
-                <div class="col-sm-12 col-md-3 col-lg-3 col-xl-3">
-                    <h5></h5>
-                </div>
-            </div>
-            <!-- fin row -->
-        </div>
-        <!-- fin container -->
-    </footer>
-    <!-- fin footer -->
 </body>
 </html>
